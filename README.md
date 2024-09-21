@@ -1,3 +1,7 @@
+Aplicacion para consultar el clima de una ciudad
+
+https://clima-app-react-js.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
